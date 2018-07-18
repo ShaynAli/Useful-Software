@@ -1,3 +1,3 @@
 # Useful-Software-Utilities
 
-(Beyond Compare)[http://www.scootersoftware.com/download.php]
+[Beyond Compare](http://www.scootersoftware.com/download.php)
