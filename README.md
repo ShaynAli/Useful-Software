@@ -1,4 +1,4 @@
-# Useful Software Utilities
+# Useful Software
 
 ## Search
 
