@@ -18,6 +18,14 @@ Diff software which handles text, binaries, data, folders, ..., also syncs folde
 ### [Perforce](https://www.perforce.com/downloads/helix-core-p4d)
 Advanced VCS
 
+## Cloud Hosting
+
+### [Heroku](https://www.heroku.com/)
+
+### [AWS](https://aws.amazon.com/)
+
+### [GCP](https://cloud.google.com/)
+
 ## Misc
 
 ### [Premailer Web API](http://premailer.dialect.ca/api)
