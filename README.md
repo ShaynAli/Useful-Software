@@ -1,5 +1,10 @@
 # Useful Software
 
+## Modelling
+
+### [TLA+](http://lamport.azurewebsites.net/tla/tla.html)
+Concurrent/distributed algorithm specification language.
+
 ## Search
 
 ### [Everything](https://www.voidtools.com/)
