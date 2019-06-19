@@ -5,6 +5,9 @@
 ### [TLA+](http://lamport.azurewebsites.net/tla/tla.html)
 Concurrent/distributed algorithm specification language.
 
+### [CGAL](https://www.cgal.org/)
+Computation geometry algorithms implemented in C++.
+
 ## Search
 
 ### [Everything](https://www.voidtools.com/)
