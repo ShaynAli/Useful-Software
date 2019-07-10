@@ -24,7 +24,6 @@ Diff software which handles text, binaries, data, folders, ..., also syncs folde
 ## VCS
 
 ### [Perforce](https://www.perforce.com/downloads/helix-core-p4d)
-Advanced VCS.
 
 ## Cloud Hosting
 
