@@ -34,7 +34,18 @@ Advanced VCS.
 
 ### [GCP](https://cloud.google.com/)
 
+## Console Emulator
+
+### [ConEmu](https://conemu.github.io/)
+
+### [Cmder](https://cmder.net/)
+
+### [iTerm2](https://iterm2.com/) (Mac)
+
 ## Misc
+
+### [Spectacle](https://www.spectacleapp.com/) (Mac)
+Allows easy window snapping for multi-window setups on big monitors.
 
 ### [Premailer Web API](http://premailer.dialect.ca/api)
 Inlines CSS for email, converts links, and warns about code issues. Premailer implementations are also availible for [.NET](https://github.com/milkshakesoftware/PreMailer.Net), [Python](https://pypi.org/project/premailer/), etc.
