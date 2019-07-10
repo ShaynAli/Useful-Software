@@ -40,11 +40,11 @@ Advanced VCS.
 
 ### [Cmder](https://cmder.net/)
 
-### [iTerm2](https://iterm2.com/) (Mac)
+### [iTerm2](https://iterm2.com/) 
 
 ## Misc
 
-### [Spectacle](https://www.spectacleapp.com/) (Mac)
+### [Spectacle](https://www.spectacleapp.com/) 
 Allows easy window snapping for multi-window setups on big monitors.
 
 ### [Premailer Web API](http://premailer.dialect.ca/api)
