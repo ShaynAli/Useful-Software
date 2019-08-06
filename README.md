@@ -1,5 +1,11 @@
 # Useful Software
 
+## Unix Utilities
+
+### tail
+
+### zcat
+
 ## Modelling
 
 ### [TLA+](http://lamport.azurewebsites.net/tla/tla.html)
