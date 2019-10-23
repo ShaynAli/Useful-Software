@@ -54,3 +54,6 @@ Allows easy window snapping for multi-window setups on big monitors.
 
 ### [Premailer Web API](http://premailer.dialect.ca/api)
 Inlines CSS for email, converts links, and warns about code issues. Premailer implementations are also availible for [.NET](https://github.com/milkshakesoftware/PreMailer.Net), [Python](https://pypi.org/project/premailer/), etc.
+
+### Bash reverse-i-search
+Hit `control + R` to search through recent inputs
