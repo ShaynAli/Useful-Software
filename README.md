@@ -5,9 +5,14 @@
 ### htop
 
 ### reverse-i-search
-Hit `control + R` to search through recent inputs
+Hit `control + R` to search through recent inputs.
 
 ### tail
+
+### tcpdump
+
+### top
+For when `htop` is not availible.
 
 ### zcat
 
@@ -53,6 +58,9 @@ Diff software which handles text, binaries, data, folders, ..., also syncs folde
 ### [iTerm2](https://iterm2.com/) 
 
 ## Misc
+
+### [Rectangle](https://rectangleapp.com/) 
+Since Spectacle is no longer maintained, this is another option for window snapping and management.
 
 ### [Spectacle](https://www.spectacleapp.com/) 
 Allows easy window snapping for multi-window setups on big monitors.
