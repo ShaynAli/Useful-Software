@@ -32,6 +32,9 @@ Fast, simple, search-by-title tool for local drives.
 ### [Agent Ransack](https://www.mythicsoft.com/agentransack/)
 Search-by-content tool for local drives.
 
+### [Libraries.io](https://libraries.io/)
+Search through open source packages, frameworks, and tools.
+
 ## Diff
 
 ### [Beyond Compare](http://www.scootersoftware.com/download.php)
