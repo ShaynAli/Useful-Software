@@ -62,6 +62,9 @@ Diff software which handles text, binaries, data, folders, ..., also syncs folde
 
 ## Misc
 
+### [TextExpander](https://textexpander.com/)
+Text snippet macros. Allows cursor and clipboard placement in snippets.
+
 ### [Rectangle](https://rectangleapp.com/) 
 Since Spectacle is no longer maintained, this is another option for window snapping and management.
 
