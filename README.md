@@ -73,3 +73,6 @@ Allows easy window snapping for multi-window setups on big monitors.
 
 ### [Premailer Web API](http://premailer.dialect.ca/api)
 Inlines CSS for email, converts links, and warns about code issues. Premailer implementations are also availible for [.NET](https://github.com/milkshakesoftware/PreMailer.Net), [Python](https://pypi.org/project/premailer/), etc.
+
+### [JSON Generator](https://www.json-generator.com/)
+Generators mock JSON data, useful for testing APIs.
