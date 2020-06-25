@@ -33,7 +33,10 @@ Fast, simple, search-by-title tool for local drives.
 Search-by-content tool for local drives.
 
 ### [Libraries.io](https://libraries.io/)
-Search through open source packages, frameworks, and tools.
+Search for open source packages, frameworks, and tools.
+
+### [ProgramCreek](https://www.programcreek.com/java-api-examples/index.php?action=search_project)
+Search by usage through open source Java libraries. Exceptionally good for finding out how to use something when documentation is insufficient.
 
 ## Diff
 
