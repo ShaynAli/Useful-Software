@@ -38,7 +38,11 @@ Search for open source packages, frameworks, and tools.
 ### [ProgramCreek](https://www.programcreek.com/java-api-examples/index.php?action=search_project)
 Search by usage through open source Java libraries. Exceptionally good for finding out how to use something when documentation is insufficient.
 
-## Diff
+## Editor
+
+### [VS Code](https://code.visualstudio.com/)
+While the software is well-known, there are many lesser known, powerful features.
+E.g. the ability to SSH into remote machines through the editor and interact with the machine's files the same way you would locally.
 
 ### [Beyond Compare](http://www.scootersoftware.com/download.php)
 Diff software which handles text, binaries, data, folders, ..., also syncs folders and does merges.
