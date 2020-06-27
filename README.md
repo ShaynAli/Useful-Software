@@ -16,6 +16,8 @@ For when `htop` is not availible.
 
 ### zcat
 
+### update-alternatives
+
 ## Modelling
 
 ### [TLA+](http://lamport.azurewebsites.net/tla/tla.html)
