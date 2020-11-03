@@ -18,6 +18,16 @@ For when `htop` is not availible.
 
 ### update-alternatives
 
+### git
+
+#### Useful subcommands and combos
+
+- `reflog`
+- `commit --amend \[--no-edit] \[-a]`
+- `log -1` (or `log -2`, `log -3`, etc.)
+- `diff`
+- `difftool`
+
 ## Modelling
 
 ### [TLA+](http://lamport.azurewebsites.net/tla/tla.html)
