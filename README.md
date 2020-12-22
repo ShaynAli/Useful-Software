@@ -32,7 +32,7 @@ For when `htop` is not availible.
 
 ### [Kali Linux Tools Listing](https://tools.kali.org/tools-listing)
 
-### [Nikto](https://tools.kali.org/information-gathering/nikto)
+#### [Nikto](https://tools.kali.org/information-gathering/nikto)
 A web server scanner.
 
 ## Modelling
