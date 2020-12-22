@@ -23,10 +23,17 @@ For when `htop` is not availible.
 #### Useful subcommands and combos
 
 - `reflog`
-- `commit --amend \[--no-edit] \[-a]`
-- `log -1` (or `log -2`, `log -3`, etc.)
+- `commit --amend [--no-edit] [-a]`
+- `log -1` (`log -2`, `log -3`, etc.)
 - `diff`
 - `difftool`
+
+## Pen Testing
+
+### [Kali Linux Tools Listing](https://tools.kali.org/tools-listing)
+
+### [Nikto](https://tools.kali.org/information-gathering/nikto)
+A web server scanner.
 
 ## Modelling
 
