@@ -18,10 +18,10 @@ For when `htop` is not availible.
 
 ### update-alternatives
 
-### git
-
 ### pstree
 Similar to `ps`, but it includes a process hierarchy visualization.
+
+### git
 
 #### Useful subcommands and combos
 
