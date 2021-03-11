@@ -88,6 +88,8 @@ Diff software which handles text, binaries, data, folders, ..., also syncs folde
 
 ### [iTerm2](https://iterm2.com/) 
 
+### Windows Terminal
+
 ## Misc
 
 ### [TextExpander](https://textexpander.com/)
