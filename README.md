@@ -20,6 +20,9 @@ For when `htop` is not availible.
 
 ### git
 
+### pstree
+Similar to `ps`, but it includes a process hierarchy visualization.
+
 #### Useful subcommands and combos
 
 - `reflog`
